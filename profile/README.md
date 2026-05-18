@@ -34,11 +34,11 @@ The platform is domain-agnostic. Financial markets are the first vertical, not t
 
 | Repository | Stack | Surface |
 |---|---|---|
-| [`prod-sugra-ai-API`](https://github.com/Sugra-Systems/prod-sugra-ai-API) | Python, FastAPI | [sugra.ai](https://sugra.ai) |
-| [`prod-sugra-ai-APP`](https://github.com/Sugra-Systems/prod-sugra-ai-APP) | Laravel 13, Vue 3, Inertia.js | [app.sugra.ai](https://app.sugra.ai) |
-| [`prod-sugra-ai-WEB`](https://github.com/Sugra-Systems/prod-sugra-ai-WEB) | Laravel 12, Blade, Filament | [sugra.systems](https://sugra.systems) |
-| [`prod-sugra-ingest`](https://github.com/Sugra-Systems/prod-sugra-ingest) | Python, Azure Functions | Bulk-source ingest to Azure Blob |
-| [`prod-sugra-ai-MCP`](https://github.com/Sugra-Systems/prod-sugra-ai-MCP) | Python, MCP | [`sugra-api-mcp`](https://pypi.org/project/sugra-api-mcp/) on PyPI, hosted at [app.sugra.ai/mcp](https://app.sugra.ai/mcp) |
+| [`prod-sugra-ai-API`] | FastAPI, Python | [sugra.ai](https://sugra.ai) |
+| [`prod-sugra-ai-APP`] | Laravel 13, Vue 3, Inertia.js | [app.sugra.ai](https://app.sugra.ai) |
+| [`prod-sugra-ai-WEB`] | Laravel 12, Blade, Filament | [sugra.systems](https://sugra.systems) |
+| [`prod-sugra-ingest`] | Azure Functions, Python | Bulk-source ingest to Azure Blob |
+| [`prod-sugra-ai-MCP`] | Python, MCP | [`sugra-api-mcp`](https://pypi.org/project/sugra-api-mcp/) on PyPI, hosted at [app.sugra.ai/mcp](https://app.sugra.ai/mcp) |
 
 ## Data Sources
 
