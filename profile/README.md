@@ -27,7 +27,7 @@
 
 Sugra Systems operates an intelligence infrastructure platform. We aggregate sovereign, intergovernmental, and academic data - markets, macroeconomics, company fundamentals, government, news, climate, maritime, trade, and entity screening - into a single normalized API, and expose every endpoint to AI agents through a Model Context Protocol gateway.
 
-One API key reaches 1,400+ endpoints across 140+ primary sources and 32 data domains, returned in one consistent JSON envelope with fallback chains for reliability. The platform is domain-agnostic: financial markets are the first vertical, not the identity.
+One API key reaches 1,600+ endpoints across 190+ primary sources and 36 data domains, returned in one consistent JSON envelope with fallback chains for reliability. The platform is domain-agnostic: financial markets are the first vertical, not the identity.
 
 ## Platform
 
@@ -82,7 +82,6 @@ Every endpoint on every plan. No feature gating, volume only. Free tier has no t
 | **Entity** | Sugra Systems, Inc. |
 | **Type** | Delaware C-Corporation |
 | **Founded** | September 2021 |
-| **File No.** | 6207936 |
 | **Uptime Target** | 99.0% paid tiers |
 
 ## Legal
