@@ -6,18 +6,20 @@
 
 <p align="center">
   <a href="https://sugra.systems">Website</a> ·
-  <a href="https://sugra.ai/docs">API Docs</a> ·
+  <a href="https://docs.sugra.ai/">API Docs</a> ·
   <a href="https://app.sugra.ai">Console</a> ·
-  <a href="https://app.sugra.ai/mcp">MCP Gateway</a> ·
+  <a href="https://sugra.systems/api#mcp">MCP Gateway</a> ·
   <a href="https://sugra.systems/api/data-providers">Data Sources</a>
 </p>
 
 <p align="center">
   <a href="https://x.com/sugrasystems">X</a> ·
+  <a href="http://g.dev/sugrasystems">Google Developer</a> ·
   <a href="https://www.linkedin.com/company/sugrasystems">LinkedIn</a> ·
   <a href="https://www.instagram.com/sugra.ai">Instagram</a> ·
-  <a href="https://www.youtube.com/@SugraSystemsInc">YouTube</a> ·
+  <a href="https://www.youtube.com/@SugraSystems">YouTube</a> ·
   <a href="https://www.facebook.com/sugra.ai">Facebook</a>
+  <a href="https://instagram.com/sugra.ai">Facebook</a>
 </p>
 
 ---
