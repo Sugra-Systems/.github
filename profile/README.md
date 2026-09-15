@@ -14,12 +14,11 @@
 
 <p align="center">
   <a href="https://x.com/sugrasystems">X</a> ·
-  <a href="http://g.dev/sugrasystems">Google Developer</a> ·
+  <a href="http://g.dev/sugrasystems">GDev</a> ·
   <a href="https://www.linkedin.com/company/sugrasystems">LinkedIn</a> ·
   <a href="https://www.instagram.com/sugra.ai">Instagram</a> ·
-  <a href="https://www.youtube.com/@SugraSystems">YouTube</a> ·
-  <a href="https://www.facebook.com/sugra.ai">Facebook</a>
-  <a href="https://instagram.com/sugra.ai">Facebook</a>
+  <a href="https://www.facebook.com/sugra.ai">Facebook</a> ·
+  <a href="https://www.youtube.com/@SugraSystems">YouTube</a>
 </p>
 
 ---
