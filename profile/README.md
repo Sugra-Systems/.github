@@ -16,6 +16,7 @@ We build data infrastructure for AI agents, research workflows, and decision pla
 
 - [sugra-api-mcp](https://github.com/Sugra-Systems/sugra-api-mcp) - Connect MCP clients and custom agents to Sugra API.
 - [sugra-api-skills](https://github.com/Sugra-Systems/sugra-api-skills) - Skills and workflow instructions for agents using Sugra over HTTPS or MCP.
+- [sugra-api-plugins](https://github.com/Sugra-Systems/sugra-api-plugins) - The Sugra API plugin for Claude Code, Codex and Grok: skills plus the MCP server in one install.
 - [sugra-api-cookbook](https://github.com/Sugra-Systems/sugra-api-cookbook) - Runnable recipes for integrating data into your applications.
 - [sugra-research-agent](https://github.com/Sugra-Systems/sugra-research-agent) - Turn a stock ticker and a question into a research report with citations.
 - [openbb-sugra](https://github.com/Sugra-Systems/openbb-sugra) - Use Sugra data from the OpenBB Platform, **as example for any platform that need data API.**
