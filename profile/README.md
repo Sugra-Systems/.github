@@ -8,13 +8,13 @@
 
 We build data infrastructure for AI agents, research workflows, and decision platforms.
 
-[Sugra API](https://sugra.ai) brings together data across markets, macroeconomics, government, news, climate, maritime, and entities. 35+ domains across 190+ primary sources, 1600+ endpoints under one LLM-ready envelope. Access it directly over HTTPS or through Sugra API MCP, which lets agents discover and call the API as tools. 
+Sugra Data brings together data across markets, macroeconomics, government, news, climate, maritime, and entities. 36 domains across 160+ primary sources, 1,600+ endpoints under one LLM-ready envelope. Two products reach it: [Sugra API](https://sugra.ai), direct access over HTTPS with one key, and Sugra MCP, which lets AI assistants and agents discover and call it as tools.
 
-[Get API key](https://app.sugra.ai/register) · [Documentation](https://docs.sugra.ai/) · [Connect via MCP](https://sugra.systems/api#mcp)
+[Get API key](https://app.sugra.ai/register) · [Sugra Docs](https://docs.sugra.ai/) · [Connect via MCP](https://sugra.systems/api#mcp)
 
 **Build with Sugra**
 
-- [sugra-api-mcp](https://github.com/Sugra-Systems/sugra-api-mcp) - Connect MCP clients and custom agents to Sugra API.
+- [sugra-api-mcp](https://github.com/Sugra-Systems/sugra-api-mcp) - Sugra MCP as a local server: connect MCP clients and custom agents to Sugra Data.
 - [sugra-api-skills](https://github.com/Sugra-Systems/sugra-api-skills) - Skills and workflow instructions for agents using Sugra over HTTPS or MCP.
 - [sugra-api-cookbook](https://github.com/Sugra-Systems/sugra-api-cookbook) - Runnable recipes for integrating data into your applications.
 - [sugra-research-agent](https://github.com/Sugra-Systems/sugra-research-agent) - Turn a stock ticker and a question into a research report with citations.
